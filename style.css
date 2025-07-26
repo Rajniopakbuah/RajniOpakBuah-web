@@ -393,4 +393,8 @@ a.tbl-kuning:hover {
         height: auto;
         display: block;
     }
+
+    .footer-section {
+        width: 50%;
+    }
 }
